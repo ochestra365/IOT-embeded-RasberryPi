@@ -39,4 +39,4 @@ while m<26:
         continue
     print(m)
 for i in range(5):
-    pass
+    pass # 아무 일도 하지 않을 때.
