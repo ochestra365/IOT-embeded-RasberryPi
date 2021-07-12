@@ -32,3 +32,5 @@ print(person[1])
 #person[1]=45
 name, age, gender = person
 print(gender)
+
+print('github추가 내용입니다.')
